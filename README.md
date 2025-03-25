@@ -5,6 +5,14 @@ It returns a list of `tweet_ids` in which the user is mentioned, with support fo
 
 ---
 
+## ✨ Features
+
+- Fetch latest tweet mentions of any user (by `userName`)
+- Returns tweet IDs only (lightweight and fast)
+- Proper modular structure with FastAPI routing
+- Logging support to track API usage and failures
+- Command-line test runner via `app.py`
+- RESTful endpoint with Swagger docs for easy testing
 
 ---
 
